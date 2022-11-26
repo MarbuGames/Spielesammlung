@@ -188,8 +188,8 @@ Library: lib_burst_generated
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Telepathy.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
---root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+--root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Registration.dll
@@ -401,8 +401,8 @@ Library: lib_burst_generated
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Environments.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Telepathy.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Internal.dll
---root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Assembly-CSharp.dll
+--root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Analytics.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.2D.SpriteShape.Runtime.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Scheduler.dll
 --root-assembly=D:\Programmieren\UnitySpieleProjekt\Spielesammlung\Temp\StagingArea\Data\Managed\Unity.Services.Core.Registration.dll
